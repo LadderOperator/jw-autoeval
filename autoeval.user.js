@@ -2,7 +2,7 @@
 // @name         南大教务网默认好评
 // @namespace    
 // @version      0.1
-// @description  快速完成教务网的教学评价，增加默认选项
+// @description  给南大教务网的教学评价默认好评
 // @author       LadderOperator
 // @include      *://elite.nju.edu.cn/jiaowu/student/evalcourse/courseEval.do?method=currentEvalCourse
 // @grant        none
@@ -15,7 +15,7 @@ var stateCheck = true
 
 setInterval(fillForm, 100);
 
-function fillForm(e) {
+function fillForm() {
   stateCheck = true
   getAll = document.querySelectorAll("#tbEvalItem form input[type^='radio']")
   getAll.forEach(function(e){
