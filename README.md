@@ -8,5 +8,5 @@
 
 ## 安装方式
 
-1. 任何一款支持(Tampermonkey)[https://www.tampermonkey.net/]或Violentmonkey（暴力猴）的浏览器，在对应的插件商店下载即可
-2. 插件安装成功后，访问(GreasyFork-南大教务网默认好评)[https://greasyfork.org/zh-CN/scripts/405190-%E5%8D%97%E5%A4%A7%E6%95%99%E5%8A%A1%E7%BD%91%E9%BB%98%E8%AE%A4%E5%A5%BD%E8%AF%84] 直接安装即可。
+1. 任何一款支持[Tampermonkey](https://www.tampermonkey.net/)或Violentmonkey（暴力猴）的浏览器，在对应的插件商店下载即可
+2. 插件安装成功后，访问[GreasyFork-南大教务网默认好评](https://greasyfork.org/zh-CN/scripts/405190-%E5%8D%97%E5%A4%A7%E6%95%99%E5%8A%A1%E7%BD%91%E9%BB%98%E8%AE%A4%E5%A5%BD%E8%AF%84)直接安装即可。
