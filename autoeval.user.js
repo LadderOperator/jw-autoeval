@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 var getAll
-var getMulRadioe
+var getMulRadio
 var getQuesRadio
 var stateCheck = true
 
